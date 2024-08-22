@@ -1,0 +1,14 @@
+D:\Projects\Sample_Project\Sample_Project\bin\Debug\net8.0\Sample_Project.exe
+D:\Projects\Sample_Project\Sample_Project\bin\Debug\net8.0\Sample_Project.deps.json
+D:\Projects\Sample_Project\Sample_Project\bin\Debug\net8.0\Sample_Project.runtimeconfig.json
+D:\Projects\Sample_Project\Sample_Project\bin\Debug\net8.0\Sample_Project.dll
+D:\Projects\Sample_Project\Sample_Project\bin\Debug\net8.0\Sample_Project.pdb
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\Sample_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\Sample_Project.AssemblyInfoInputs.cache
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\Sample_Project.AssemblyInfo.cs
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\Sample_Project.csproj.CoreCompileInputs.cache
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\Sample_Project.dll
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\refint\Sample_Project.dll
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\Sample_Project.pdb
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\Sample_Project.genruntimeconfig.cache
+D:\Projects\Sample_Project\Sample_Project\obj\Debug\net8.0\ref\Sample_Project.dll
