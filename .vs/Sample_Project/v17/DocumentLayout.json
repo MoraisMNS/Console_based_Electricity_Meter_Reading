@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\Sample_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{586B660C-3EA2-4CEE-B051-5142C3220822}|Sample_Project\\Sample_Project.csproj|d:\\projects\\sample_project\\sample_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{586B660C-3EA2-4CEE-B051-5142C3220822}|Sample_Project\\Sample_Project.csproj|solutionrelative:sample_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{586B660C-3EA2-4CEE-B051-5142C3220822}|Sample_Project\\Sample_Project.csproj|d:\\projects\\sample_project\\sample_project\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{586B660C-3EA2-4CEE-B051-5142C3220822}|Sample_Project\\Sample_Project.csproj|solutionrelative:sample_project\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586B660C-3EA2-4CEE-B051-5142C3220822}|Sample_Project\\Sample_Project.csproj|d:\\projects\\sample_project\\sample_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586B660C-3EA2-4CEE-B051-5142C3220822}|Sample_Project\\Sample_Project.csproj|solutionrelative:sample_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{586B660C-3EA2-4CEE-B051-5142C3220822}|Sample_Project\\Sample_Project.csproj|d:\\projects\\sample_project\\sample_project\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Bill.cs",
               "DocumentMoniker": "D:\\Projects\\Sample_Project\\Sample_Project\\Bill.cs",
               "RelativeDocumentMoniker": "Sample_Project\\Bill.cs",
               "ToolTip": "D:\\Projects\\Sample_Project\\Sample_Project\\Bill.cs",
               "RelativeToolTip": "Sample_Project\\Bill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAABXAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFIAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T11:29:27.253Z",
               "EditorCaption": ""
@@ -47,12 +47,11 @@
               "RelativeToolTip": "Sample_Project\\Users.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:59:38.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T07:59:38.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Sample_Project\\Sample_Project\\Program.cs",
               "RelativeDocumentMoniker": "Sample_Project\\Program.cs",

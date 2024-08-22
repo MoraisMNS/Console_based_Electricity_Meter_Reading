@@ -72,7 +72,7 @@ namespace Sample_Project
 
                 case <= 120:
                     fixedCost = 480.00;
-                    totalCost = (60 * 7.85 + 30 * 10 + ((unitDifference - 90) * 27.75));
+                    totalCost = (60 * 7.85 + 30 * 10 + ((unitDifference - 90) * 27.75) + fixedCost);
                     break;
 
                 case <= 180:
